@@ -1,25 +1,34 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31019.35
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0E7FCDE1-E267-429A-90FC-024865246FE1}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E7FCDE1-E267-429A-90FC-024865246FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E7FCDE1-E267-429A-90FC-024865246FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E7FCDE1-E267-429A-90FC-024865246FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E7FCDE1-E267-429A-90FC-024865246FE1}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3DD13F62-7A40-4CD1-8350-F706CC6B5C9C}
-	EndGlobalSection
-EndGlobal
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double Pow(double a, int pow)
+            {
+                double result = 1;
+                for (int i = 1; i < pow; i++)
+                {
+                    result *= a;
+                }
+                return result;
+            }
+            double SqrtN(double n, double A, double esp = 0.0001)
+            {
+                var x0 = A / n;
+                var x1 = (1 / n) * ((n - 1) * x0 + A / Pow(x0, (int)n - 1));
+
+                while (Math.Abs(x1 - x0) > esp)
+                {
+                    x0 = x1;
+                    x1 = (1 / n) * ((n - 1) * x0 + A / Pow(x0, (int)n - 1));
+                }
+                return x1;
+            }
+            Console.WriteLine(SqrtN(3, 5));
+            Console.ReadKey();
+        }
+    }
+}
