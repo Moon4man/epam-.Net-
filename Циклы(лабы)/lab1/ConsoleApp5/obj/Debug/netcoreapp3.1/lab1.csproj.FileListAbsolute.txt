@@ -1,0 +1,26 @@
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\the_d\source\repos\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Выполененные работы\lab1\ConsoleApp5\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
