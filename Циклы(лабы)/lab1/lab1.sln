@@ -1,25 +1,34 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31019.35
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "ConsoleApp5\lab1.csproj", "{1ABD6257-EF09-4E89-858D-8254CE9AFC40}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1ABD6257-EF09-4E89-858D-8254CE9AFC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1ABD6257-EF09-4E89-858D-8254CE9AFC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1ABD6257-EF09-4E89-858D-8254CE9AFC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1ABD6257-EF09-4E89-858D-8254CE9AFC40}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {ABF19B70-B9D7-416D-BB2C-4E45D622730C}
-	EndGlobalSection
-EndGlobal
+using System;
+
+namespace ConsoleApp5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double factorial = 1;
+            double sum = 0;
+            Console.Write("Введите число N: ");
+            int N = Int32.Parse(Console.ReadLine());
+            Console.Write("Введите число x: ");
+            int x = Int32.Parse(Console.ReadLine());
+            for (int i = 1; i <= N; i++)
+            {
+                factorial *= 2 * i;
+            }
+            if (N > 0)
+            {
+                for(int i = 1; i <= N; i++)
+                {
+                    sum += Math.Pow(-1, i + 1)*(1/factorial)*Math.Pow((x/3), 4 * i);
+                }
+                Console.WriteLine($"Полученная сумма ряда: {sum}");
+            }
+            else
+            {
+                Console.WriteLine("Было введено отрицательное число или 0!");
+            }
+            Console.ReadKey();
+        }
+    }
+}
