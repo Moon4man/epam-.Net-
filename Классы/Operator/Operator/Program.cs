@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Operator
 {
@@ -51,7 +51,7 @@ namespace Operator
         // Скалярное умножение
         public static double operator *(Vector v1, Vector v2)
         {
-            return Math.Round(v1.Length * v2.Length * v1.Angle(v2), 2);
+            return v1.Length * v2.Length * v1.Angle(v2);
         }
 
         // Переопределение метода ToString()
@@ -66,13 +66,13 @@ namespace Operator
     {
         static void Main(string[] args)
         {
-            Vector a = new Vector(3, 1, 2);
+            Vector a = new Vector(3, 2, 1);
             Vector b = new Vector(0, 4, 6);
 
             Console.WriteLine("Дано: вектор а{0} и вектор b{1}", a.ToString(), b.ToString());
             Console.WriteLine("Сумма векторов = {0}", a + b);
             Console.WriteLine("Разность векторов = {0}", a - b);
-            Console.WriteLine("Скалярное произведение векторов = {0}", a * b);
+            Console.WriteLine("Скалярное произведение векторов = {0:#.##}", a * b);
             Console.ReadKey();
         }
     }
