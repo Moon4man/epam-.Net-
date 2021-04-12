@@ -1,21 +1,32 @@
-﻿using System;
+using System;
 
 namespace Class
 {
-    abstract class GeometrFigura
+    abstract class GeometrFigure
     {
         public abstract double Squere();
         public abstract double Perimetr();
     }
-        class FiguraStar : GeometrFigura
+        class FigureStar : GeometrFigure
         {
-            double a;
+        private double a;
 
-            public FiguraStar(double a)
-            {
-                this.a = a;
+        public double A
+        {
+            get { return a; }
+            set {
+                if (value < 0)
+                {
+                    Console.WriteLine("Неверные данные! Введите положительное число!");
+                }
+                else
+                {
+                    a = value;
+                }
             }
-            public override double Squere()
+        }
+
+        public override double Squere()
             {
                 return (4 *((Math.Pow(a, 2) * Math.Sqrt(3)) / 2)) + Math.Pow(a,2); // площадь правильной четырехконечной звезды = 
                                                                                    // = 4-е площади равносторонего треугольника + площадь кадрата
@@ -30,11 +41,16 @@ namespace Class
         {
             static void Main(string[] args)
             {
-                FiguraStar star = new FiguraStar(4.0);
+                FigureStar star = new FigureStar();
                 Console.WriteLine("Правильная четырехконечная звезда!");
+                Console.WriteLine("Введите сторону: ");
+                star.A = Int32.Parse(Console.ReadLine());
+            if(star.A > 0)
+            {
+                Console.WriteLine($"Введенная вами сторона: {star.A}");
                 Console.WriteLine("Площадь звезды: {0:#.##}", star.Squere());
                 Console.WriteLine("Периметр звезды: {0:#.##}", star.Perimetr());
-                Console.WriteLine();
+            }
             }
         }
     }
