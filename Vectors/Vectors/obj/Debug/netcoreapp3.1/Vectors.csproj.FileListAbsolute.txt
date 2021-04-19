@@ -1,0 +1,13 @@
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\bin\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.genruntimeconfig.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Vectors\Vectors\obj\Debug\netcoreapp3.1\Vectors.csprojAssemblyReference.cache
