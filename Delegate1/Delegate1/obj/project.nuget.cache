@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC8G3kHW3TauEmsOID1yoYPPM4BZSL8/ui6VCawYs1M8CsOrsR1tB5yNghlqpmqbFmxm2dVnGjwgfio0aWhzfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\the_d\\OneDrive\\Рабочий стол\\курсы c#\\Labs\\Delegates\\Delegate1\\Delegate1\\Delegate1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\the_d\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
