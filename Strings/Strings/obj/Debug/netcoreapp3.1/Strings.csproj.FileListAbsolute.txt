@@ -1,0 +1,26 @@
+C:\Users\the_d\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\the_d\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\the_d\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\the_d\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\the_d\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\the_d\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\the_d\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
