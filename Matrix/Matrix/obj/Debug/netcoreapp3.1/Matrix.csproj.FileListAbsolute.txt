@@ -1,0 +1,26 @@
+C:\Users\the_d\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\the_d\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\the_d\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\the_d\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\the_d\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\the_d\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\the_d\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Строки, массивы, вектора\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
