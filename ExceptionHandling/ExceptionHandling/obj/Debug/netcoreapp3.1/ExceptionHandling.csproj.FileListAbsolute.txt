@@ -1,0 +1,26 @@
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\the_d\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
