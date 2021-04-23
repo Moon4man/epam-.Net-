@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace lab3
 {
@@ -6,20 +6,21 @@ namespace lab3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите число x: ");
+
+            double sum = 0;
+            int n = 0;
+
+            Console.Write("Введите число x: ");
             double x = Double.Parse(Console.ReadLine());
-            Console.WriteLine("Введите точность eps: ");
+            Console.Write("Введите точность eps: ");
             double eps = Double.Parse(Console.ReadLine());
 
-            double temp = 1, sum = 0; //temp - слагаемое
-            int n = 0;
-            while (Math.Pow(-1, n) * (n + 1) * temp > eps) 
+            while ((Math.Pow(-1, n) * (n + 1) * Math.Pow(x, n) / Math.Pow(3,n)) > eps)
             {
-                sum += Math.Pow(-1, n) * (n + 1) * temp;
-                temp *= x / 3;
+                sum += Math.Pow(-1, n) * (n + 1) * Math.Pow(x, n) / Math.Pow(3, n);
                 n++;
             }
-            Console.Write(sum);
+            Console.WriteLine(sum);
         }
     }
 }
