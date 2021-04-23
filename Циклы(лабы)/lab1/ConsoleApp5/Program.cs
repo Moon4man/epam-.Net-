@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp5
 {
@@ -12,9 +12,9 @@ namespace ConsoleApp5
             int N = Int32.Parse(Console.ReadLine());
             Console.Write("Введите число x: ");
             int x = Int32.Parse(Console.ReadLine());
-            for (int i = 1; i <= N; i++)
+            for (int i = 1; i <= N * 2; i++)
             {
-                factorial *= 2 * i;
+                factorial *= i;
             }
             if (N > 0)
             {
@@ -28,6 +28,7 @@ namespace ConsoleApp5
             {
                 Console.WriteLine("Было введено отрицательное число или 0!");
             }
+            Console.WriteLine(factorial);
             Console.ReadKey();
         }
     }
