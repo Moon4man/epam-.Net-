@@ -1,0 +1,13 @@
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
