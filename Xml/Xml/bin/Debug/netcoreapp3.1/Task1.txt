@@ -1,0 +1,13 @@
+comment:first string
+FirstString
+comment:second string
+SecondString
+comment:third string
+ThirdString
+comment:some string
+qwefqwef
+comment:some string again
+qwefqjwief
+comment:last string
+
+THIS String
