@@ -1,0 +1,26 @@
+C:\Users\the_d\source\repos\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.exe
+C:\Users\the_d\source\repos\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.deps.json
+C:\Users\the_d\source\repos\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.json
+C:\Users\the_d\source\repos\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.dev.json
+C:\Users\the_d\source\repos\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\the_d\source\repos\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csprojAssemblyReference.cache
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfoInputs.cache
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfo.cs
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\the_d\source\repos\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.genruntimeconfig.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.exe
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.deps.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.dev.json
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csprojAssemblyReference.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfoInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfo.cs
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\the_d\OneDrive\Рабочий стол\курсы c#\Labs\Delegates\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.genruntimeconfig.cache
